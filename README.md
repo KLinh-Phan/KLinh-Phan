@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KLinh-Phan
 - 👀 I’m interested in Front-end, Design and People.
-- 🌱 I’m currently learning JS as well as HR works.
+- 🌱 I’m currently learning the way to find people who want to be a part of Saigon Technology Solutions in Da Nang.
 - 💞️ I’m looking for Tester (Manual and Automation), Angular, PHP, .NET, DevOps, Reactjs and Nodejs
 - 📫 How to reach me: live:ptkl158 (Skype)
 

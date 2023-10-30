@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Linh - HR of Saigon Technology Solutions (STS) in Da Nang.
-- 👀 I’m interested in Front-end, Design and People.
+- 👋 Hi, I’m Linh - TA of Saigon Technology in Da Nang.
 - 🌱 I’m currently learning the way to find people who want to grow with us in the US-UK working environment.
-- 💞️ I’m looking for Tester (Manual and Automation), Angular, PHP, .NET, DevOps, Reactjs and Nodejs
+- 💞️ I’m looking for Angular, Python, BA and Java
 - 📫 How to reach me: live:ptkl158 (Skype)
 
 <!---
